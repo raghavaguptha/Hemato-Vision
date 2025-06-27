@@ -21,7 +21,7 @@ Hemato-Vision is a machine learning application developed to assist in hematolog
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Allen015/Hemato-Vision1.git
+git clone https://github.com/raghavaguptha/Hemato-Vision1.git
 cd Hemato-Vision1
 ```
 
